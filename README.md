@@ -1,15 +1,11 @@
-# Hi there, I'm Regina Martha! 👋
-## Aspiring Data Analyst & Data Scientist
+# Hi, I'm Gina!✌️
 
-🌱 Currently self-learning and growing through hands-on projects
+I like typing on my keyboard (because I can type fast).  
+That’s why I build *something* with **AI**, because it’s faster when the machine helps me think (brain rot help!!!).
 
-📊 Excited about analyzing data to solve real-world problems
+## 🧠 What I Like
+- Building random tools that *might* be useful  
+- Making AI do the boring parts  
+- Turning ideas into projects (even unfinished ones count, right?)
 
-🔍 Exploring new tools and techniques in data science and analytics
-
-Let's connect and grow together as I navigate my data journey! 🚀
-
-<!---
-martharegina/martharegina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Thanks for visiting my corner of the internet!
