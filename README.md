@@ -1,12 +1,19 @@
 # Hi, I'm Gina!✌️
 
-I’m self-learning machine learning.
+I loveeee data! <3
 
-Skills developed (so far):
-- exploratory data analysis
-- handling missing values
-- handling categorical variables
-- feature scaling
-- features engineering
-- supervised learning: regression, classification
-- using pipelines
+## 🔧 My Skills
+Here’s what I’ve been learning and working on:  
+
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Machine Learning (Supervised & Unsupervised)  
+- Data Visualization (Matplotlib, Seaborn, Tableau, Power BI)  
+- SQL & Database Management  
+- Excel & Google Sheets for Analysis & Reporting  
+- Python (Pandas, NumPy, Scikit-learn)
+
+## 🚀 I’m Currently Learning
+- Advanced Machine Learning & AI  
+- Automation & Data Pipelines  
